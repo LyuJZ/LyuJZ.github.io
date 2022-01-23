@@ -8,7 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-***I hear and I forget. I see and I remember. I do and I understand. &emsp;&emsp;&emsp;&emsp;&emsp;                                                                                                                                                            &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;－－ Xunzi (荀子)*** 
+***I hear and I forget. I see and I remember. I do and I understand.   
+&emsp;&emsp;&emsp;&emsp;&emsp;－－ Xunzi (荀子)*** 
 ======
 
 Short Bio
