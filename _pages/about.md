@@ -1,3 +1,13 @@
+---
+permalink: /
+title: ""
+excerpt: "About me"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+
 ***I hear and I forget. I see and I remember. I do and I understand. &emsp;&emsp;&emsp;&emsp;&emsp;                                                                                                                                                            &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;－－ Xunzi (荀子)*** 
 ======
 
