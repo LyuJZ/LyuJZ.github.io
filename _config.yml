@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Jianzhi Lyu"
   avatar           : "1300995754.jpg"
-  bio              : "PhD student at Universität Hamburg"
+  bio              : "I'm a PhD student at Universität Hamburg, Hamburg, Germany."
   location         : "Hamburg, Germany"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            :
+  email            : "lyu@informatik.uni-hamburg.de"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
