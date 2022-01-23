@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 ***I hear and I forget. I see and I remember. I do and I understand.   
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;－－ Xunzi (荀子)*** 
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;－－ Xunzi (荀子)*** 
 
 Short Bio
 ======
