@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in Marine Engineering, Huazhong University of Science and Technology(HUST), 2014
-* M.S. in Control Engineering, Northwestern Polytechnical University(NWPU), 2017
 * Ph.D in Informatics, Universität Hamburg(UHH), 2022 (expected)
+* M.S. in Control Engineering, Northwestern Polytechnical University(NWPU), 2017
+* B.S. in Marine Engineering, Huazhong University of Science and Technology(HUST), 2014
 
 <!-- Work experience
 ======
