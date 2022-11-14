@@ -6,10 +6,10 @@ author_profile: true
 ---
 
 ### 2022
+  + **Jianzhi Lyu**, Philipp Ruppel, Norman Hendrich, Shuang, Li, Michael Gorner, and Jianwei Zhang, Efficient and Collision-Free Human-Robot Collaboration Based on Intention and Trajectory Prediction. *IEEE Transactions on Cognitive and Developmental Systems*, 2022, doi:[10.1109/TCDS.2022.3215093](https://ieeexplore.ieee.org/document/9920012)
   + **Jianzhi Lyu**, Alexander Maye, Michael Goerner, Philipp Ruppel, Andreas K. Engel and Jianwei Zhang, "Increasing performance of human-robot collaboration by human intention prediction and vigilance monitoring", *Frontiers in Neurorobotics*, 2022, doi:[10.3389/fnbot.2022.1068274](https://www.frontiersin.org/articles/10.3389/fnbot.2022.1068274/abstract).
 
 ### 2021
-  + **Jianzhi Lyu**, Philipp Ruppel, Norman Hendrich, Shuang, Li, Michael Gorner, and Jianwei Zhang, Efficient and Collision-Free Human-Robot Collaboration Based on Intention and Trajectory Prediction. *IEEE Transactions on Cognitive and Developmental Systems*, 2022, doi:[10.1109/TCDS.2022.3215093](https://ieeexplore.ieee.org/document/9920012).
   + Song Tang, Yuji Shi, Zhiyuan Ma, **Jianzhi Lyu**, Qingdu Li, and Jianwei Zhang, Model Adaptation through Hypothesis Transfer with Gradual Knowledge Distillation. *International Conference on Intelligent Robots and Systems (IROS)* 2021, Prague, Czech Republic.
   
 ### 2020
