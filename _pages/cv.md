@@ -19,7 +19,7 @@ Work experience
 ======
 * Since Oct. 2022: Research Assistant (Full Position)
   * Universität Hamburg(UHH)
-  * Duties included: Algorithm development for 3D bin-packing problem 
+  * Duties included: research on data-driven methods for 3D bin-packing problem 
   
 Awards
 ======
