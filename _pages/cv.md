@@ -15,17 +15,11 @@ Education
 * M.S. in Control Engineering, Northwestern Polytechnical University(NWPU), 2017
 * B.S. in Marine Engineering, Huazhong University of Science and Technology(HUST), 2014
 
-<!-- Work experience
+Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub -->
+* Since Oct. 2022: Research Assistant (Full Position)
+  * Universität Hamburg(UHH)
+  * Duties included: Algorithm development for 3D bin-packing problem 
   
 Awards
 ======
