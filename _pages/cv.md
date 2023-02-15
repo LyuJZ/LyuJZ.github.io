@@ -11,15 +11,18 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Informatics, Universität Hamburg(UHH), 2022 (expected)
+* Ph.D in Informatics, Universität Hamburg(UHH), 2023
 * M.S. in Control Engineering, Northwestern Polytechnical University(NWPU), 2017
 * B.S. in Marine Engineering, Huazhong University of Science and Technology(HUST), 2014
 
-<!-- Work experience
+Work experience
 ======
-* Since Oct. 2022: Research Assistant (Full Position)
+* Since Dec. 2022: Research Assistant
   * Universität Hamburg(UHH)
-  * Duties included: research on data-driven methods for 3D bin-packing problem  -->
+  * Duties included: research on data-driven methods for 3D bin-packing problem with robot arm.
+* Oct. 2021-Nov. 2022: Research Assistant
+  * Universität Hamburg(UHH)
+  * Duties included: [TRR169 CML](https://www.crossmodal-learning.org/en/home/about.html) subtask: [Coordinating human-robot collaboration by EEG-based human intention prediction and vigilance control](https://www.frontiersin.org/articles/10.3389/fnbot.2022.1068274/full).
   
 Awards
 ======
