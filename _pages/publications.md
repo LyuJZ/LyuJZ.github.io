@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ### 2023
-  + **Jianzhi Lyu**, Philipp Ruppel, Michael Gorner, Norman Hendrich, and Jianwei Zhang, Gradient Guided Sampling-based Motion Planner for High-dimentional robot manipulator, *prepint*.
+  + **Jianzhi Lyu**, Philipp Ruppel, Michael Gorner, Norman Hendrich, and Jianwei Zhang, Gradient Guided Sampling-based Motion Planner for High-dimentional robot-hand system, *prepint*.
   + **Jianzhi Lyu**, and Jianwei Zhang, Grasping Generation in Cluster and Dynamic Environment, *preprint*.
  
 ### 2022
