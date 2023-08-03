@@ -26,7 +26,6 @@ Work experience
   
 Awards
 ======
-* Ph.D. scholarship from CSC(China Scholarship Council), 2017-2021.
 * First Class Academic Scholarship from NWPU, 2015-2016.
 * First Class Academic Scholarship from NWPU, 2014-2015.
 * Postgraduate Recommendation, 2014.
