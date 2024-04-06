@@ -5,9 +5,15 @@ permalink: /publications/
 author_profile: true
 ---
 
+### 2024
+  + **Jianzhi Lyu**, Hui Zhang, Hongzhuo Liang, Chuangchuang Zhou, Fuchun Sun, and Jianwei Zhang, Multimodal Learning for Adaptive Multi-Fingered Robotic Hand Grasping, *submitted to IROS 2024*.
+  + Hui Zhang, **Jianzhi Lyu***, Hongzhuo Liang, Chuangchuang Zhou, Fuchun Sun, and Jianwei Zhang, ADG-Net: A Sim-to-Real Multimodal Learning Framework for Adaptive Dexterous Grasping, *submitted to IEEE Transactions on 
+ Cybernetics*.
+
 ### 2023
   + **Jianzhi Lyu**, Philipp Ruppel, Michael Gorner, Norman Hendrich, and Jianwei Zhang, Gradient Guided Sampling-based Motion Planner for High-dimentional robot-hand system, *prepint*.
   + **Jianzhi Lyu**, and Jianwei Zhang, Grasping Generation in Cluster and Dynamic Environment, *preprint*.
+  + Hao Zhang, Hongzhuo Liang, Lin Cong, **Jianzhi Lyu**, Long Zeng, Pingfa Feng， and Jianwei Zhang, Reinforcement Learning Based Pushing and Grasping Objects from Ungraspable Poses, *IEEE International Conference on Robotics and Automation (ICRA)* 2023, London, UK.
  
 ### 2022
   + **Jianzhi Lyu**, Philipp Ruppel, Norman Hendrich, Shuang, Li, Michael Gorner, and Jianwei Zhang, Efficient and Collision-Free Human-Robot Collaboration Based on Intention and Trajectory Prediction. *IEEE Transactions on Cognitive and Developmental Systems*, 2022, doi:[10.1109/TCDS.2022.3215093](https://ieeexplore.ieee.org/document/9920012)
