@@ -6,9 +6,6 @@ author_profile: true
 ---
 
 ### 2024
-  + **Jianzhi Lyu**, Hui Zhang, Hongzhuo Liang, Chuangchuang Zhou, Fuchun Sun, and Jianwei Zhang, Multimodal Learning for Adaptive Multi-Fingered Robotic Hand Grasping, *submitted to IROS 2024*.
-  + Hui Zhang, **Jianzhi Lyu$\star$**, Hongzhuo Liang, Chuangchuang Zhou, Fuchun Sun, and Jianwei Zhang, ADG-Net: A Sim-to-Real Multimodal Learning Framework for Adaptive Dexterous Grasping, *submitted to IEEE Transactions on 
- Cybernetics*.
 
 ### 2023
   + **Jianzhi Lyu**, Philipp Ruppel, Michael Gorner, Norman Hendrich, and Jianwei Zhang, Gradient Guided Sampling-based Motion Planner for High-dimentional robot-hand system, *prepint*.
